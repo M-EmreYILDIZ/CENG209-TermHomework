@@ -1,0 +1,6 @@
+Since i only have a single .c file I did not create a Makefile for compilation. But I created a compile.bat file for compilation.
+It resides within the term homework folder.
+Also if you have already used the compile.bat there is also run.bat to run the game.
+
+All that is needed is to type ./compile or .\compile according to your OS.
+Also ./run or .\run for the run.bat file
