@@ -1,3 +1,5 @@
+Name of the Game: Icebreaker Chronicles
+
 Commands:
 
 look    : Looks around at the surrounding area.
